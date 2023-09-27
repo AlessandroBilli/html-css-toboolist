@@ -6,7 +6,7 @@ body {
 h1 {
     display: inline-block;
     vertical-align: middle;
-    
+
 
 
 
@@ -31,8 +31,8 @@ nav {
     margin-left: 200px;
     margin-right: 200px;
     margin-top: 50px;
-    border-top-right-radius: 20px;
-    border-top-left-radius: 20px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
     padding-left: 20px;
     padding-top: 35px;
 }
@@ -45,14 +45,14 @@ nav {
     border-radius: 10px;
     padding: 10px;
     text-align: center;
-    color: white; 
+    color: white;
 }
 
 .addsection {
     display: inline;
     width: 75px;
     height: 15px;
-    background-color:white;
+    background-color: white;
     border-radius: 10px;
     padding: 10px;
     text-align: center;
@@ -60,4 +60,47 @@ nav {
     border: 2px solid;
     border-color: lightgray;
     margin-left: 2px;
+}
+
+main {
+    background-color: white;
+    height: 480px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 2px;
+    padding-left: 20px;
+    padding-top: 35px;
+    
+
+}
+
+ul{list-style: none;
+
+}
+
+.element{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border: 1px solid green;
+    vertical-align: middle;
+    line-height: 20px;
+    border-radius: 50%;
+
+
+
+    
+
+}
+
+.botton{display: inline-block;
+    width: 75px;
+    height: 15px;
+    background-color: rgb(43, 162, 209);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 2px;
+    color: white;
+
 }
