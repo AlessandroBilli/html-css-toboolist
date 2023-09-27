@@ -63,22 +63,31 @@ nav {
 }
 
 main {
+    background-color: rgb(246, 248, 249);
+    text-align: center;
+    margin-top: 1px;
+
+
+
+}
+
+
+.container {
     background-color: white;
-    height: 480px;
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-top: 2px;
-    padding-left: 20px;
-    padding-top: 35px;
+    height: 500px;
+    width: 62%;
+    text-align: justify;
+    margin: auto;
     
 
 }
 
-ul{list-style: none;
+ul {
+    list-style: none;
 
 }
 
-.elementg{
+.elementg {
     display: inline-block;
     height: 20px;
     width: 20px;
@@ -91,64 +100,68 @@ ul{list-style: none;
 
 
 
-    
+
 
 }
 
-.botton{display: inline-block;
+.botton {
+    display: inline-block;
     width: 75px;
     height: 20px;
     background-color: rgb(43, 162, 209);
     border-radius: 40px;
-    
+
     text-align: center;
-    
+
     color: white;
 
 
 }
 
-.botton2{display: inline-block;
+.botton2 {
+    display: inline-block;
     width: 75px;
     height: 20px;
     background-color: rgb(168, 71, 224);
     border-radius: 40px;
-    
+
     text-align: center;
-    
+
     color: white;
 
 
 }
 
-.botton3{display: inline-block;
+.botton3 {
+    display: inline-block;
     width: 75px;
     height: 20px;
     background-color: rgb(63, 153, 78);
     border-radius: 40px;
-    
+
     text-align: center;
-    
+
     color: white;
 
 
 }
 
-.botton4{display: inline-block;
+.botton4 {
+    display: inline-block;
     width: 75px;
     height: 20px;
     background-color: rgb(226, 110, 16);
     border-radius: 40px;
-    
+
     text-align: center;
-    
+
     color: white;
 
 
 }
 
 
-.elementr{
+.elementr {
     display: inline-block;
     height: 20px;
     width: 20px;
@@ -161,6 +174,6 @@ ul{list-style: none;
 
 
 
-    
+
 
 }
