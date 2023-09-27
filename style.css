@@ -78,7 +78,7 @@ ul{list-style: none;
 
 }
 
-.element{
+.elementg{
     display: inline-block;
     height: 20px;
     width: 20px;
@@ -86,6 +86,8 @@ ul{list-style: none;
     vertical-align: middle;
     line-height: 20px;
     border-radius: 50%;
+    margin: 7px 7px 7px 7px;
+    text-align: center;
 
 
 
@@ -95,12 +97,70 @@ ul{list-style: none;
 
 .botton{display: inline-block;
     width: 75px;
-    height: 15px;
+    height: 20px;
     background-color: rgb(43, 162, 209);
-    border-radius: 10px;
-    padding: 10px;
+    border-radius: 40px;
+    
     text-align: center;
-    margin-left: 2px;
+    
     color: white;
+
+
+}
+
+.botton2{display: inline-block;
+    width: 75px;
+    height: 20px;
+    background-color: rgb(168, 71, 224);
+    border-radius: 40px;
+    
+    text-align: center;
+    
+    color: white;
+
+
+}
+
+.botton3{display: inline-block;
+    width: 75px;
+    height: 20px;
+    background-color: rgb(63, 153, 78);
+    border-radius: 40px;
+    
+    text-align: center;
+    
+    color: white;
+
+
+}
+
+.botton4{display: inline-block;
+    width: 75px;
+    height: 20px;
+    background-color: rgb(226, 110, 16);
+    border-radius: 40px;
+    
+    text-align: center;
+    
+    color: white;
+
+
+}
+
+
+.elementr{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border: 1px solid red;
+    vertical-align: middle;
+    line-height: 20px;
+    border-radius: 50%;
+    margin: 7px 7px 7px 7px;
+    text-align: center;
+
+
+
+    
 
 }
